@@ -125,7 +125,7 @@ Anita wants to demonstrate her skills and experience to the job recruiters
   How are the designs different? How does each one serve your partner differently?
 -->
 
-![Anita homepage](../public/design-image.png)
+![Anita homepage](../public/design-anita.png)
 
 ---
 
